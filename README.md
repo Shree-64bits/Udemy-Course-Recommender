@@ -23,11 +23,13 @@ Store all screenshots inside a folder named **screenshots**.
 
 ![Recommendations](screenshots/recommendations.png)
 
+![](screenshots/recommendations2.png)
+
 ---
 
-### ⚙️ User Preferences
+### ⚙️ Udemy Website
 
-![Filters](screenshots/filters.png)
+![Filters](screenshots/udemy.png)
 
 ---
 
