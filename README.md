@@ -8,18 +8,6 @@ Developed using **Python, Scikit-learn, Pandas, and Streamlit** as part of a Dat
 
 ---
 
-# 🚀 Live Demo
-
-🔗 **Streamlit App:** *Add your deployed Streamlit link here*
-
-Example:
-
-```
-https://your-app-name.streamlit.app
-```
-
----
-
 # 📸 Application Screenshots
 
 Store all screenshots inside a folder named **screenshots/**.
@@ -208,6 +196,16 @@ Special thanks to the open-source community and the developers of **Scikit-learn
 This project is open-source and intended for educational and learning purposes.
 
 ---
+
+## Connect With Me
+
+**Shree Sharma**
+
+LinkedIn: *(https://www.linkedin.com/in/shree-sharma-8b879a324?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
+
+
+---
+
 
 ## ⭐ If you found this project interesting, consider giving it a star!
 
