@@ -10,15 +10,8 @@ Developed using **Python, Scikit-learn, Pandas, and Streamlit** as part of a Dat
 
 # 📸 Application Screenshots
 
-Store all screenshots inside a folder named **screenshots/**.
+Store all screenshots inside a folder named **screenshots**.
 
-```
-screenshots/
-│── home.png
-│── recommendations.png
-│── filters.png
-│── chart.png
-```
 
 ### 🏠 Home Page
 
